@@ -57,4 +57,7 @@ Summarize the overall insights gained from the project and potential real-world 
 ## Contributing
 If you wish to contribute to this project, please fork the repository, make your changes, and create a pull request with a detailed description of your contributions.
 
+## Kaggle Link
+You can find the dataset used in this project on Kaggle via the following link:
+[Kaggle Weather Data](https://www.kaggle.com/code/nourhanebndj/weather-data-analysis) 
 ---
